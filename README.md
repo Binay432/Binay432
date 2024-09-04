@@ -8,5 +8,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working as a QA
 - 🌱 I’m currently practising as a Full Stack Developer 
 - 👯 I’m looking to collaborate on Full Stack Developer / C++ developer
-- 💬 Ask me about C/C++, VueJs, NestJs, MeteorJs, Playwright, MongoDB
+- 💬 Ask me about C/C++, JS, VueJs, NestJs, MeteorJs, Playwright, MongoDB
 - ⚡ What I love ? :  Geopolitics, History, Travelling
