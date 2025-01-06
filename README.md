@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 -->
 - 🌱 **Currently Practicing:** Full Stack Development (Vue.js, Node.js, MongoDB, and more)
   
-- 🔭 **Experience:** <br>
-  - **QA Engineer** at Keela.co <br>
+- 🔭 **Experience:**
+  - **QA Engineer** at Keela.co
   - **IoT Programming** with hands-on experience in Electronics and Communication through various academic and personal projects.
     
 - 👯 **Open to Collaborations:** Full Stack Development, C++ Development, IoT Projects
