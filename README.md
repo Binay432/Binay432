@@ -5,8 +5,13 @@
 
 Here are some ideas to get you started:
 -->
-- 🌱 I’m currently practising as a Full Stack Developer 
-- 🔭 Worked as a QA at Keela.co
-- 👯 I’m looking to collaborate on Full Stack Developer / C++ developer
-- 💬 Ask me about C/C++, JS, VueJs, NestJs, MeteorJs, Playwright, MongoDB
-- ⚡ What I love ? :  Geopolitics, History, Travelling
+- 🌱 **Currently Practicing:** Full Stack Development (Vue.js, Node.js, MongoDB, and more)
+- 🔭 **Experience:** <br>
+  - **QA Engineer** at Keela.co <br>
+  - **IoT Programming** with hands-on experience in Electronics and Communication through various academic and personal projects.
+- 👯 **Open to Collaborations:** Full Stack Development, C++ Development, IoT Projects
+- 💬 **Ask Me About:**
+    - **Programming:** C/C++, JavaScript, Express.js, Vue.js, Nest.js, Meteor.js, Python 
+    - **Tools:** MongoDB, Playwright, and more
+    - **IoT:** Embedded Systems and Electronics Projects, Arduino
+⚡ **What I Love:** Geopolitics, History, and Traveling
