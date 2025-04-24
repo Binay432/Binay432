@@ -11,7 +11,7 @@ Here are some ideas to get you started:
   - **QA Engineer** at Keela.co
   - **IoT Programming** with hands-on experience in Electronics and Communication through various academic and personal projects.
     
-- 👯 **Open to Collaborations:** Full Stack Development, C++ Development, IoT Projects
+- 👯 **Open to Collaborations:** Full Stack Development, QA, C++ Development, IoT Projects
   
 - 💬 **Ask Me About:**
     - **Programming:** C/C++, JavaScript, Express.js, Vue.js, Nest.js, Meteor.js, Python 
